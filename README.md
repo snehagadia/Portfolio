@@ -90,7 +90,7 @@ This project is prepared for Vercel, but it has not been deployed from this envi
 3. Add environment variable `OPENAI_API_KEY` in the Vercel project settings.
 4. Deploy. The frontend calls the relative endpoint `/api/chat`.
 
-A live URL should be added here only after a successful deployment.
+https://portfolio-three-opal-mkgc3ord2i.vercel.app/
 
 ## Known limitations
 
